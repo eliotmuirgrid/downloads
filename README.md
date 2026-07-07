@@ -8,11 +8,20 @@ Archived Windows x64 installers for Iguana 6:
 Kindly provided initially by [Colin McGrath](https://www.linkedin.com/in/colinmcgr4th/) who is a really decent human
 being as well as being a good engineer.
 
-It would be wonderful to get similar installers donated for Chameleon - although Chameleon customers should understand that 
-these installers actually come with Chameleon embedded in it.  Also there is no real benefit making a separate Chameleon license
-code generator since registering Iguana will register Chameleon for you anyways.
+It would be wonderful to get similar installers donated for Chameleon, Iguana 5, and any other old versions people still have sitting around on hard drives.
 
-So it's frankly a huge waste of time resurrecting a license code generator for a product which should have retired decades ago
-were it not for the fact that it's super reliable and people in IT never seem to want to clean up anything - that won't work forever...
+Legacy installers for critical infrastructure software need to be preserved on a platform like GitHub, where anyone can fork or clone them. It is frankly bonkers for critical infrastructure to depend on the infrastructure—and continued existence—of one company.
+
+Chameleon customers should also understand that these Iguana installers actually have Chameleon embedded in them.
+
+There is no real benefit in creating a separate Chameleon license-code generator either, since registering Iguana registers Chameleon anyway.
+
+So, frankly, resurrecting a separate license-code generator for a product that should have retired decades ago would be a huge waste of time.
+
+The only problem is that Chameleon is super reliable, and people in IT never seem to want to clean up anything that still works.
+
+That strategy won’t work forever…
+
+For information on generating license codes, go here:
 
 For license codes you can get [information from here](https://github.com/eliotmuirgrid/press/blob/master/license.md).
