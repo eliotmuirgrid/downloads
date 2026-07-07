@@ -15,4 +15,4 @@ code generator since registering Iguana will register Chameleon for you anyways.
 So it's frankly a huge waste of time resurrecting a license code generator for a product which should have retired decades ago
 were it not for the fact that it's super reliable and people in IT never seem to want to clean up anything - that won't work forever...
 
-For license codes you can get [information from here](https://github.com/eliotmuirgrid/press/blob/master/license.md) 
+For license codes you can get [information from here](https://github.com/eliotmuirgrid/press/blob/master/license.md).
