@@ -5,7 +5,7 @@ Archived installers for these products.
 Kindly provided initially by [Colin McGrath](https://www.linkedin.com/in/colinmcgr4th/) who is a really decent human
 being as well as being a good engineer.
 
-Also Benetech - another really nice organization that I have worked with since year 2000.
+Also Benetech - [Moe Islam](https://www.linkedin.com/in/moe-islam-8a017313/) - another really nice organization that I have worked with since year 2000.
 
 It would be wonderful to get similar installers donated for Chameleon, Iguana 5, and any other old versions people still have sitting around on hard drives.
 
