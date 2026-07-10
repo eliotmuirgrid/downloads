@@ -1,12 +1,11 @@
-# Iguana 6 Windows Installers
+# Iguana 6 and Chameleon Windows Installers
 
-Archived Windows x64 installers for Iguana 6:
-
-- iguana_6_1_5_windows_x64.exe
-- iguana_6_2_0_windows_x64.exe
+Archived installers for these products.
 
 Kindly provided initially by [Colin McGrath](https://www.linkedin.com/in/colinmcgr4th/) who is a really decent human
 being as well as being a good engineer.
+
+Also Benetech - another really nice organization that I have worked with since year 2000.
 
 It would be wonderful to get similar installers donated for Chameleon, Iguana 5, and any other old versions people still have sitting around on hard drives.
 
