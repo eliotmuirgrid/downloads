@@ -1,13 +1,14 @@
-# Iguana 6 and Chameleon Windows Installers
+# Iguana 6 
 
 Archived installers for these products.
 
 Kindly provided initially by [Colin McGrath](https://www.linkedin.com/in/colinmcgr4th/) who is a really decent human
 being as well as being a good engineer.
 
-Also Benetech - [Moe Islam](https://www.linkedin.com/in/moe-islam-8a017313/) - another really nice organization that I have worked with since year 2000.
+Also Benetech - [Moe Islam](https://www.linkedin.com/in/moe-islam-8a017313/) - another really nice organization that I have worked with since year 2000.  But you can forget about me supporting customers who want to only use Chameleon by itself.
 
-It would be wonderful to get similar installers donated for Chameleon, Iguana 5, and any other old versions people still have sitting around on hard drives.
+Nor am I interested in older versions of Iguana - you were lazy if you are still on earlier versions of Iguana in 2026. It's your own problem as to how
+you upgrade to 6.1.5 or 6.2.0.  You were basically lazy and negligent to have left it this long.
 
 Legacy installers for critical infrastructure software need to be preserved on a platform like GitHub, where anyone can fork or clone them. It is frankly bonkers for critical infrastructure to depend on the infrastructure—and continued existence—of one company.
 
