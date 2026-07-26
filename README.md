@@ -24,4 +24,4 @@ That strategy won’t work forever…
 
 For information on generating license codes, go here:
 
-For license codes you can get [information from here](https://github.com/eliotmuirgrid/press/blob/master/license.md).
+For license codes you can get [information from here](https://www.interfaceware.com/license).
